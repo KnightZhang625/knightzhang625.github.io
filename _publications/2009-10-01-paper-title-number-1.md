@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'Numeral Reasoning, Encoder, Decoder, Deep Learning, AI, Hierarchical Decoder, Mathematical Symbols'
 date: 2022-11-28
-venue: 'NeurIPS 2022 Full Paper'
+venue: 'Full Paper accepetd by NeurIPS 2022'
 paperurl: 'https://openreview.net/forum?id=gd7ZI0X7Q-h'
 <!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).' -->
 ---

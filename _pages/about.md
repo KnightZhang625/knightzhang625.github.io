@@ -17,7 +17,7 @@ Publications
 (for full publication list please checkout my [Google Scholar](https://scholar.google.com/citations?user=zQ4pLNEAAAAJ&hl=en))
 * [ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler](https://openreview.net/forum?id=gd7ZI0X7Q-h&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2022%2FConference%2FAuthors%23your-submissions)) 
     - **Jiaxin Zhang**, Yashar Moshfeghi  
-    - In [NeurIPS 2022](https://neurips.cc)  
+    - Full Paper Accepted in [NeurIPS 2022](https://neurips.cc)  
 
 For more info
 ------

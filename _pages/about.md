@@ -21,4 +21,4 @@ Publications
 
 For more info
 ------
-More info about please see my [publication page](https://knightzhang625.github.io/publications/) and [CV page](https://knightzhang625.github.io/cv/).
+More info about please see my [CV page](https://knightzhang625.github.io/cv/).

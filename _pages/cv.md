@@ -15,26 +15,27 @@ Education
 * M.S. in Advanced CS, University of Sheffield, 2017 - 2019
 * Ph.D in CS, University of Strathclyde, 2020 - 2024 (expected) (sponsored by Strathclyde Centre for Doctoral Training (SCDT) Research Studentship)
 
+Teaching experience
+======
+* Feb 2022 - May 2022: Tutor
+  * CS985 (Machine Learning & Deep Learning) 
+
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr 2019 - Oct 2020: NLP Researcher
+  * TCL Technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Feb 2019 - Apr 2019: NLP Researcher Internship
+  * Ping An of China
+
+* Summer 2015: 1st Engineer intership
+  * Ericsson
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient at Python, Pytorch, HuggingFace, etc.
+* Solid Knowledge in Deep Learning, Machine Learning, NLP, etc. 
+* Good ability to deploy prototype model.
 
 Publications
 ======
@@ -42,17 +43,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======

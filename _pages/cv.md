@@ -31,17 +31,17 @@ Work experience
 * Summer 2015: 1st Engineer intership
   * Ericsson
 
+Publications
+======
+* ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler 
+    - In NeurIPS 2022 
+
 Skills
 ======
 * Proficient at Python, Pytorch, HuggingFace, etc.
 * Solid Knowledge in Deep Learning, Machine Learning, NLP, etc. 
 * Good ability to deploy prototype model.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 <!-- Talks
 ======

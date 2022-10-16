@@ -21,4 +21,4 @@ Publications
 
 For more info
 ------
-More info about please see my [CV](https://knightzhang625.github.io/JiaxinZhang_CV.pdf/).
+More info about please see my [CV](https://github.com/KnightZhang625/knightzhang625.github.io/blob/master/JiaxinZhang_CV.pdf).

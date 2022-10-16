@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in CS, Chang'an University (211 Project), 2011 - 2015
+* M.S. in Advanced CS, University of Sheffield, 2017 - 2019
+* Ph.D in CS, University of Strathclyde, 2020 - 2024 (expected) (sponsored by Strathclyde Centre for Doctoral Training (SCDT) Research Studentship)
 
 Work experience
 ======

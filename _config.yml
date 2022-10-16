@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @KnightZhang625
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "jiaxin.zhang@strath.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Jiaxin_Zhang55/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,8 +96,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
+  github           : "https://github.com/KnightZhang625"
+  google_plus      : "https://scholar.google.com/citations?user=zQ4pLNEAAAAJ&hl=en"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@KnightZhang625"
   vine             :
   weibo            :
   xing             :

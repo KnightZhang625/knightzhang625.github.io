@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://openreview.net/forum?id=gd7ZI0X7Q-h)
 
-Recommended citation: Zhang, J., & Moshfeghi, Y. (Accepted/In press). ELASTIC: numerical reasoning with adaptive symbolic compiler. Paper presented at 2022 Conference on Neural Information Processing Systems, New Orleans, United States.
+Recommended citation: Zhang, J., & Moshfeghi, Y. (Accepted/In press). ELASTIC: numerical reasoning with adaptive symbolic compiler. Paper presented at 2022 Conference on Neural Information Processing Systems, New Orleans, United States. -->

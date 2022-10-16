@@ -83,10 +83,10 @@ author:
   name             : "Jiaxin Zhang"
   avatar           : "IMG_3012.JPG"
   bio              : "NLP/DL PhD student in University of Strathclyde"
-  location         : "Location"
+  location         : "Glasgow, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=zQ4pLNEAAAAJ&hl=en"
   email            : "jiaxin.zhang@strath.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Jiaxin_Zhang55/research"
   uri              :
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "https://github.com/KnightZhang625"
-  google_plus      : "https://scholar.google.com/citations?user=zQ4pLNEAAAAJ&hl=en"
+  google_plus      : 
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"

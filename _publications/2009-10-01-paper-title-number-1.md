@@ -8,8 +8,8 @@ venue: 'Full Paper accepetd by NeurIPS 2022'
 paperurl: 'https://openreview.net/forum?id=gd7ZI0X7Q-h'
 <!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).' -->
 ---
-<!-- This paper is about the number 2. The number 3 is left for future work. -->
+This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](https://openreview.net/forum?id=gd7ZI0X7Q-h)
 
-<!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
+Recommended citation: Zhang, J., & Moshfeghi, Y. (Accepted/In press). ELASTIC: numerical reasoning with adaptive symbolic compiler. Paper presented at 2022 Conference on Neural Information Processing Systems, New Orleans, United States.

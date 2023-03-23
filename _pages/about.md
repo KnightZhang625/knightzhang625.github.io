@@ -15,9 +15,9 @@ My research interset is around Numerical Reasoning by AI, particularly in solvin
 Publications
 ------
 (for full publication list please checkout my [Google Scholar](https://scholar.google.com/citations?user=zQ4pLNEAAAAJ&hl=en))
-* [ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler](https://arxiv.org/abs/2210.10105) 
+* [ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler](https://proceedings.neurips.cc/paper_files/paper/2022/hash/522ef98b1e52f5918e5abc868651175d-Abstract-Conference.html) 
     - **Jiaxin Zhang**, Yashar Moshfeghi  
-    - Full Paper Accepted in [NeurIPS 2022](https://neurips.cc)  
+    - Full Paper Accepted in [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022)  
 
 For more info
 ------

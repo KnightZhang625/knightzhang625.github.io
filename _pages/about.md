@@ -12,12 +12,19 @@ I am Jiaxin Zhang, a PhD candidate at the University of Strathclyde under the gu
 
 My area of research focuses on enhancing the numerical reasoning capabilities of Artificial Intelligence (AI), such that it can match human abilities in this domain. Specifically, my interest lies in Multi-Modal learning techniques, which I consider to be a promising approach towards achieving genuine numerical reasoning capacity in AI.
 
-Publications
+Selected Publications
 ------
 (for full publication list please checkout my [Google Scholar](https://scholar.google.com/citations?user=zQ4pLNEAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Jiaxin-Zhang/2129519596))
 * [ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler](https://proceedings.neurips.cc/paper_files/paper/2022/hash/522ef98b1e52f5918e5abc868651175d-Abstract-Conference.html) 
     - **Jiaxin Zhang**, Yashar Moshfeghi  
     - Full Paper Accepted in [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022)  
+
+* [GAPS: Geometry-Aware Problem Solver](https://arxiv.org/pdf/2401.16287.pdf)
+    - **Jiaxin Zhang**, Yinghui Jiang, Yashar Moshfeghi
+
+* [GeoEval: Benchmark for Evaluating LLMs and Multi-Modal Models on Geometry Problem-Solving](https://arxiv.org/pdf/2402.10104.pdf) 
+    - **Jiaxin Zhang**, **Zhongzhi Li**, Mingliang Zhang, Fei Yin, Chenglin Liu, Yashar Moshfeghi  
+
 
 For more info
 ------

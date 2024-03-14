@@ -15,6 +15,10 @@ My area of research focuses on enhancing the numerical reasoning capabilities of
 Selected Publications
 ------
 (for full publication list please checkout my [Google Scholar](https://scholar.google.com/citations?user=zQ4pLNEAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Jiaxin-Zhang/2129519596))
+* GOLD: Geometry Problem Solver with Natural Language Description  
+    - **Jiaxin Zhang**, Yashar Moshfeghi  
+    - Full Paper Accepted in NAACL 2024 Findings  
+    
 * [ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler](https://proceedings.neurips.cc/paper_files/paper/2022/hash/522ef98b1e52f5918e5abc868651175d-Abstract-Conference.html) 
     - **Jiaxin Zhang**, Yashar Moshfeghi  
     - Full Paper Accepted in [NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022)  

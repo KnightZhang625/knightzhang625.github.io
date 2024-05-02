@@ -15,7 +15,7 @@ My area of research focuses on enhancing the numerical reasoning capabilities of
 Selected Publications
 ------
 (for full publication list please checkout my [Google Scholar](https://scholar.google.com/citations?user=zQ4pLNEAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Jiaxin-Zhang/2129519596))
-* GOLD: Geometry Problem Solver with Natural Language Description  
+* [GOLD: Geometry Problem Solver with Natural Language Description](https://arxiv.org/pdf/2405.00494)    
     - **Jiaxin Zhang**, Yashar Moshfeghi  
     - Full Paper Accepted in NAACL 2024 Findings  
     

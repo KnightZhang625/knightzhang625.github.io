@@ -28,7 +28,7 @@ Selected Publications
 
 * [GeoEval: Benchmark for Evaluating LLMs and Multi-Modal Models on Geometry Problem-Solving](https://arxiv.org/pdf/2402.10104.pdf) 
     - **Jiaxin Zhang**, **Zhongzhi Li**, Mingliang Zhang, Fei Yin, Chenglin Liu, Yashar Moshfeghi  
-
+    - Full Paper Accepted in ACL 2024 Findings
 
 For more info
 ------

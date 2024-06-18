@@ -20,7 +20,7 @@ Selected Publications
     - **Jiaxin Zhang**, **Zhongzhi Li**, Mingliang Zhang, Fei Yin, Chenglin Liu, Yashar Moshfeghi  
     - Full Paper Accepted in ACL 2024 Findings  
 
-* [GOLD: Geometry Problem Solver with Natural Language Description](https://arxiv.org/pdf/2405.00494)    
+* [GOLD: Geometry Problem Solver with Natural Language Description](https://aclanthology.org/2024.findings-naacl.19/)    
     - **Jiaxin Zhang**, Yashar Moshfeghi  
     - Full Paper Accepted in NAACL 2024 Findings  
     

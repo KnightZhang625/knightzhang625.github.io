@@ -16,7 +16,7 @@ Selected Publications
 ------
 (for full publication list please checkout my [Google Scholar](https://scholar.google.com/citations?user=zQ4pLNEAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Jiaxin-Zhang/2129519596))
 
-* [GeoEval: Benchmark for Evaluating LLMs and Multi-Modal Models on Geometry Problem-Solving](https://arxiv.org/pdf/2402.10104.pdf) 
+* [GeoEval: Benchmark for Evaluating LLMs and Multi-Modal Models on Geometry Problem-Solving](https://aclanthology.org/2024.findings-acl.73/) 
     - **Jiaxin Zhang**, **Zhongzhi Li**, Mingliang Zhang, Fei Yin, Chenglin Liu, Yashar Moshfeghi  
     - Full Paper Accepted in ACL 2024 Findings  
 

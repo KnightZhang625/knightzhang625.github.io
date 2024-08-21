@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in CS, Chang'an University (211 Project), 2011 - 2015
 * M.S. in Advanced CS, University of Sheffield, 2017 - 2019
-* Ph.D in CS, University of Strathclyde, 2020 - 2024 (expected) (sponsored by Strathclyde Centre for Doctoral Training (SCDT) Research Studentship)
+* Ph.D in CS, University of Strathclyde, 2020 - 2024 (sponsored by Strathclyde Centre for Doctoral Training (SCDT) Research Studentship)
 
 Teaching experience
 ======
@@ -35,6 +35,10 @@ Publications
 ======
 * ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler 
     - In NeurIPS 2022 
+* GOLD: Geometry Problem Solver with Natural Language Description 
+    - In NAACL 2024 Findings  
+* GeoEval: Benchmark for Evaluating LLMs and Multi-Modal Models on Geometry Problem-Solving  
+    - In ACL 2024 Findings
 
 Skills
 ======

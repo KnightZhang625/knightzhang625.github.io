@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Jiaxin Zhang, a PhD candidate at the University of Strathclyde under the guidance of [Dr.Yashar Moshfeghi ](https://scholar.google.com/citations?user=BaFcnWIAAAAJ&hl=en&oi=ao). Prior to pursuing my doctorate, I earned my Master's degree at the University of Sheffield under the supervision of [Dr.Andreas Vlachos](https://andreasvlachos.github.io//), and completed my Bachelor's degree at Chang'an University. Additionally, I have professional experience as an NLP Algorithm Engineer at TCL Corporate Research Co., Ltd, where I worked for a year and a half.
+My name is Jiaxin Zhang, and I am a Senior NLP Researcher at Tencent, currently based in London, UK. I completed my PhD at the University of Strathclyde, where I was mentored by [Dr.Yashar Moshfeghi ](https://scholar.google.com/citations?user=BaFcnWIAAAAJ&hl=en&oi=ao). Before my doctoral studies, I obtained a Master’s degree from the University of Sheffield, under the supervision of [Dr.Andreas Vlachos](https://andreasvlachos.github.io//), following my Bachelor’s degree from Chang’an University. Additionally, I have gained professional experience as an NLP Algorithm Engineer at TCL Corporate Research Co., Ltd, where I worked for a year and a half.
 
-My area of research focuses on enhancing the numerical reasoning capabilities of Artificial Intelligence (AI), such that it can match human abilities in this domain. Specifically, my interest lies in Multi-Modal learning techniques, which I consider to be a promising approach towards achieving genuine numerical reasoning capacity in AI.
+My research is centered on advancing the numerical reasoning capabilities of Artificial Intelligence (AI) to bring them closer to human-level proficiency. I am particularly focused on solving text-based mathematical and geometry problems, which I believe are crucial steps toward achieving true numerical reasoning in AI.
 
 Selected Publications
 ------

@@ -22,6 +22,9 @@ Teaching experience
 
 Work experience
 ======
+* Aug 2024 - Now: Senior NLP Researcher
+  * Tencent 
+
 * Apr 2019 - Oct 2020: NLP Researcher
   * TCL Technology
 
@@ -31,7 +34,7 @@ Work experience
 * Summer 2015: 1st Engineer intership
   * Ericsson
 
-Publications
+Publications (listed only if first-authored)  
 ======
 * ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler 
     - In NeurIPS 2022 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiaxin Zhang, and I am a Senior NLP Researcher at Tencent, currently based in London, UK. I completed my PhD at the University of Strathclyde, where I was mentored by [Dr.Yashar Moshfeghi ](https://scholar.google.com/citations?user=BaFcnWIAAAAJ&hl=en&oi=ao). Before my doctoral studies, I obtained a Master’s degree from the University of Sheffield, under the supervision of [Dr.Andreas Vlachos](https://andreasvlachos.github.io//), following my Bachelor’s degree from Chang’an University. Additionally, I have gained professional experience as an NLP Algorithm Engineer at TCL Corporate Research Co., Ltd, where I worked for a year and a half.
+My name is Jiaxin Zhang, and I am a Senior Researcher of LLM & Agentic Game AI at Tencent, currently based in London, UK. I completed my PhD at the University of Strathclyde, where I was mentored by [Dr.Yashar Moshfeghi ](https://scholar.google.com/citations?user=BaFcnWIAAAAJ&hl=en&oi=ao). Before my doctoral studies, I obtained a Master’s degree from the University of Sheffield, under the supervision of [Dr.Andreas Vlachos](https://andreasvlachos.github.io//), following my Bachelor’s degree from Chang’an University. Additionally, I have gained professional experience as an NLP Algorithm Engineer at TCL Corporate Research Co., Ltd, where I worked for a year and a half.
 
 My research is centered on advancing the numerical reasoning capabilities of Artificial Intelligence (AI) to bring them closer to human-level proficiency. I am particularly focused on solving text-based mathematical and geometry problems, which I believe are crucial steps toward achieving true numerical reasoning in AI.
 

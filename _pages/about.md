@@ -8,15 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiaxin Zhang, and I am a Senior Researcher of LLM & Agentic Game AI at Tencent, currently based in London, UK. I completed my PhD at the University of Strathclyde, where I was mentored by [Dr.Yashar Moshfeghi ](https://scholar.google.com/citations?user=BaFcnWIAAAAJ&hl=en&oi=ao). Before my doctoral studies, I obtained a Master’s degree from the University of Sheffield, under the supervision of [Dr.Andreas Vlachos](https://andreasvlachos.github.io//), following my Bachelor’s degree from Chang’an University. Additionally, I have gained professional experience as an NLP Algorithm Engineer at TCL Corporate Research Co., Ltd, where I worked for a year and a half.
+My name is Jiaxin Zhang, and I am a Senior Researcher of LLM & Agentic Game AI at Tencent, currently based in London, UK. I completed my PhD at the University of Strathclyde, where I was mentored by [Dr. Yashar Moshfeghi](https://scholar.google.com/citations?user=BaFcnWIAAAAJ&hl=en&oi=ao). Before my doctoral studies, I obtained a Master’s degree from the University of Sheffield, under the supervision of [Dr. Andreas Vlachos](https://andreasvlachos.github.io//), following my Bachelor’s degree from Chang’an University. Additionally, I have gained professional experience as an NLP Algorithm Engineer at TCL Corporate Research Co., Ltd, where I worked for a year and a half.
 
-My research is centered on advancing the numerical reasoning capabilities of Artificial Intelligence (AI) to bring them closer to human-level proficiency. I am particularly focused on solving text-based mathematical and geometry problems, which I believe are crucial steps toward achieving true numerical reasoning in AI.
+My research is centered on advancing the numerical reasoning capabilities of Artificial Intelligence (AI) to bring them closer to human-level proficiency. More recently, my focus has shifted towards LLM-driven agentic AI for games, spanning both companion agents that interact naturally with human players and autonomous agents that adaptively play games on their own.
+
+News
+------
+* **[2026.03]** Co-presented *["AI Companion System in Peacekeeper Elite"](https://schedule.gdconf.com/session/ai-companion-system-in-peacekeeper-elite-presented-by-lightspeed-studios/917404)* at **GDC 2026** (Game & Production Technology track), together with Bing Xue and Chen Wang from LightSpeed Studios, introducing the AI companion system in PUBG Mobile with command obedience, free chat, memory, and nurturing capabilities.
 
 Current Projects
 ------
-* **PUBG Mobile (和平精英) AI Teammate** - Building an LLM/agent-powered AI teammate for PUBG Mobile that perceives the game state, makes tactical decisions, and cooperates naturally with human players in real time.
+* **PUBG Mobile (和平精英) AI Teammate** &nbsp;·&nbsp; *2024.12 – 2026*
+    - Lead of the player intent recognition model, responsible for translating in-game context and player instructions into actionable understanding for the AI companion.
+    - Focused on LLM-based decision making that drives the companion's command obedience, memory, and interactive behaviors.
+    - Publicly introduced at [GDC 2026](https://schedule.gdconf.com/session/ai-companion-system-in-peacekeeper-elite-presented-by-lightspeed-studios/917404).
 
-* **Auto-Gaming: Adaptive Game-Playing Agents** - Developing autonomous agents that adaptively learn to play and complete diverse games without game-specific engineering, exploring generalizable agentic decision-making across different game environments.
+* **Auto-Gaming: Adaptive Game-Playing Agents**
+    - Co-lead of the overall agent framework, and lead of the core module for language-directed agent action, translating high-level natural-language instructions into executable in-game actions.
+    - Exploring generalizable, LLM/agent-based decision-making that allows an agent to adaptively play and complete diverse games without game-specific engineering.
 
 Selected Publications
 ------

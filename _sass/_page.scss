@@ -248,6 +248,31 @@
 
 
 /*
+   Tag pills / badges (e.g. about page research focus tags)
+   ========================================================================== */
+
+.tag-pills {
+  margin: 0.5em 0 1.5em;
+
+  .btn {
+    margin-right: 0.4em;
+    cursor: default;
+    pointer-events: none;
+  }
+}
+
+
+/*
+   Visitor badge
+   ========================================================================== */
+
+.page__footer-visitors {
+  margin-top: 1.5em;
+  text-align: center;
+}
+
+
+/*
    Page taxonomy
    ========================================================================== */
 

@@ -12,12 +12,19 @@ My name is Jiaxin Zhang, and I am a Senior Researcher of LLM & Agentic Game AI a
 
 My research is centered on advancing the numerical reasoning capabilities of Artificial Intelligence (AI) to bring them closer to human-level proficiency. More recently, my focus has shifted towards LLM-driven agentic AI for games, spanning both companion agents that interact naturally with human players and autonomous agents that adaptively play games on their own.
 
-News
-------
+<div class="tag-pills">
+  <span class="btn btn--small btn--inverse">LLM Agents</span>
+  <span class="btn btn--small btn--inverse">Agentic Game AI</span>
+  <span class="btn btn--small btn--inverse">AI Companion</span>
+  <span class="btn btn--small btn--inverse">Numerical Reasoning</span>
+  <span class="btn btn--small btn--inverse">Geometry Problem Solving</span>
+  <span class="btn btn--small btn--inverse">NLP</span>
+</div>
+
+## <i class="fas fa-fw fa-newspaper"></i> News
 * **[2026.03]** Co-presented *["AI Companion System in Peacekeeper Elite"](https://schedule.gdconf.com/session/ai-companion-system-in-peacekeeper-elite-presented-by-lightspeed-studios/917404)* at **GDC 2026** (Game & Production Technology track), together with Bing Xue and Chen Wang from LightSpeed Studios, introducing the AI companion system in PUBG Mobile with command obedience, free chat, memory, and nurturing capabilities.
 
-Current Projects
-------
+## <i class="fas fa-fw fa-project-diagram"></i> Current Projects
 * **PUBG Mobile (和平精英) AI Teammate** &nbsp;·&nbsp; *2024.12 – 2026*
     - Lead of the player intent recognition model, responsible for translating in-game context and player instructions into actionable understanding for the AI companion.
     - Focused on LLM-based decision making that drives the companion's command obedience, memory, and interactive behaviors.
@@ -27,8 +34,7 @@ Current Projects
     - Co-lead of the overall agent framework, and lead of the core module for language-directed agent action, translating high-level natural-language instructions into executable in-game actions.
     - Exploring generalizable, LLM/agent-based decision-making that allows an agent to adaptively play and complete diverse games without game-specific engineering.
 
-Selected Publications
-------
+## <i class="fas fa-fw fa-file-alt"></i> Selected Publications
 (for full publication list please checkout my [Google Scholar](https://scholar.google.com/citations?user=zQ4pLNEAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Jiaxin-Zhang/2129519596))
 
 * [GeoEval: Benchmark for Evaluating LLMs and Multi-Modal Models on Geometry Problem-Solving](https://aclanthology.org/2024.findings-acl.73/) 
@@ -46,6 +52,9 @@ Selected Publications
 * [GAPS: Geometry-Aware Problem Solver](https://arxiv.org/pdf/2401.16287.pdf)
     - **Jiaxin Zhang**, Yinghui Jiang, Yashar Moshfeghi
 
-For more info
-------
+## <i class="fas fa-fw fa-address-card"></i> For More Info
 More info about please see my [CV](../JiaxinZhang_CV.pdf).
+
+<div class="page__footer-visitors">
+  <a href="https://hits.sh/knightzhang625.github.io/"><img src="https://hits.sh/knightzhang625.github.io.svg?style=flat-square&label=Visitors&color=6c757d" alt="Visitors" /></a>
+</div>

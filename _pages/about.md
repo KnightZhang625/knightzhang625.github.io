@@ -12,6 +12,12 @@ My name is Jiaxin Zhang, and I am a Senior Researcher of LLM & Agentic Game AI a
 
 My research is centered on advancing the numerical reasoning capabilities of Artificial Intelligence (AI) to bring them closer to human-level proficiency. I am particularly focused on solving text-based mathematical and geometry problems, which I believe are crucial steps toward achieving true numerical reasoning in AI.
 
+Current Projects
+------
+* **PUBG Mobile (和平精英) AI Teammate** - Building an LLM/agent-powered AI teammate for PUBG Mobile that perceives the game state, makes tactical decisions, and cooperates naturally with human players in real time.
+
+* **Auto-Gaming: Adaptive Game-Playing Agents** - Developing autonomous agents that adaptively learn to play and complete diverse games without game-specific engineering, exploring generalizable agentic decision-making across different game environments.
+
 Selected Publications
 ------
 (for full publication list please checkout my [Google Scholar](https://scholar.google.com/citations?user=zQ4pLNEAAAAJ&hl=en) or [Semantic Scholar](https://www.semanticscholar.org/author/Jiaxin-Zhang/2129519596))
